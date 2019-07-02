@@ -1,5 +1,8 @@
+Final API which can be called from any terminal: "curl -X POST -F image=@dog.jpg 'http://35.188.83.248/predict'"
+
 # Resnet-Flask-Kubernetes-GCP
 Deploying a pre-trained Keras Resnet model with Flask on GCP Kubernetes
+
 
 Create an instance 
 - n1-standard-4 (4 vCPU, 15 GB memory)
